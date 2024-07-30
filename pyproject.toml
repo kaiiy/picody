@@ -9,6 +9,7 @@ dependencies = [
     "opencv-python>=4.10.0.84",
     "matplotlib>=3.9.1",
     "ipykernel>=6.29.5",
+    "opencv-contrib-python>=4.10.0.84",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"

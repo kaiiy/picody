@@ -49,7 +49,10 @@ nest-asyncio==1.6.0
 numpy==2.0.1
     # via contourpy
     # via matplotlib
+    # via opencv-contrib-python
     # via opencv-python
+opencv-contrib-python==4.10.0.84
+    # via picody
 opencv-python==4.10.0.84
     # via picody
 packaging==24.1
