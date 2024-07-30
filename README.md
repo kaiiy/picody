@@ -1,3 +1,3 @@
 # picody
 
-Describe your project here.
+![](./picody.png)
